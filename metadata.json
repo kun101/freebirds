@@ -1,0 +1,5 @@
+{
+  "name": "FreeBirds",
+  "description": "A browser-based 2D multiplayer social world using Firebase Realtime Database for serverless connectivity.",
+  "requestFramePermissions": []
+}

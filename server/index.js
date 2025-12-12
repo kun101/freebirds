@@ -1,0 +1,1 @@
+// This file is deprecated as the app now runs serverless with Firebase.
